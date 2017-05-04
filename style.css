@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+@import url('https://fonts.googleapis.com/css?family=Josefin+Slab');
+body {
+   font-size: 180%;
+   margin-top: 0;
+   margin: 0;
+   background-color: #f0f5f5;
+}
+main {
+  width: 500px;
+  margin: auto;
+  padding: 40px 0 40px 0;
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: lighter;
+}
+section {
+  text-align: center;
+  padding-top: 50px;
+}
+footer {
+   height: 100px;
+   background-color: #ccccb3;
+   margin: 0;
+   text-align: center;
+   font-family: "Josefin Sans";
+   font-size: 20px;
+   font-weight: lighter;
+}
+h1 {
+	color: #000;
+	font-family: 'Josefin Slab', serif;
+  font-weight: lighter;
+	font-size: 100px;
+	padding: 20px 0;
+  padding-left: 30px;
+	margin: 0;
+	background-color: #ccccb3;
+}
+h2 {
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: lighter;
+}
+a {
+  border-radius: 25px;
+  color: #fff;
+  font-size: 30px;
+  background: #bf4040;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  text-align: center;
+  font-family: "Josefin Sans";
+  font-weight: lighter;
+  box-shadow: 50px;
+}
+a:hover {
+  background: #cc6666;
+}
+.toggleGif {
+  text-align: center;
+  box-shadow: none;
+  margin:auto;
+  display:block;
+  margin-bottom: 20px;
+  border-radius: 25px;
+  font-family: "Josefin Sans";
+  font-weight: lighter;
+  color: #fff;
+  font-size: 30px;
+  background: #bf4040;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  border: none;
+}
+.toggleGif:hover {
+  background: #cc6666;
+}
